@@ -129,7 +129,7 @@
       <br>Supabase
     </td>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="graphql" />
       <br>GraphQL
     </td>
   </tr>
@@ -167,8 +167,8 @@
       <br>Postman
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wasm" width="45" height="45" alt="wasm" />
-      <br>Wasm
+      <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="vercel" />
+      <br>Vercel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=ubuntu" width="45" height="45" alt="ubuntu" />
