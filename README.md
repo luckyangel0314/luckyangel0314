@@ -75,8 +75,8 @@
       <br>NodeJS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP" />
+      <br>PHP
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=dotnet" width="45" height="45" alt="dotnet" />
