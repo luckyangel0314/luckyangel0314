@@ -51,7 +51,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TS" />
       <br>Typescript
     </td>
     <td align="center" width="90">
@@ -83,7 +83,7 @@
       <br>.NET
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -97,7 +97,7 @@
       <br>NestJS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxjs" width="45" height="45" alt="nuxjs" />
+      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="nuxjs" />
       <br>NuxtJS
     </td>
     <td align="center" width="90">
@@ -113,8 +113,8 @@
       <br>MongoDB
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
-      <br>MySQL
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="mysql" />
+      <br>Mysql
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
@@ -135,7 +135,7 @@
   </tr>
   <tr>
     <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="docker" />
       <br>Docker
     </td>
     <td align="center" width="90">
